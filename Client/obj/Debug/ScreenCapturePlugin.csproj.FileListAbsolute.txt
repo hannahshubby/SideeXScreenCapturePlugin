@@ -1,2 +1,9 @@
 D:\한화생명\Prod\Client\bin\Debug\CaptureMonitorServer.exe.config
 D:\한화생명\Prod\Client\obj\Debug\ScreenCapturePlugin.csproj.ResolveComReference.cache
+D:\한화생명\Prod\Client\bin\Debug\CaptureMonitorServer.exe
+D:\한화생명\Prod\Client\bin\Debug\CaptureMonitorServer.pdb
+D:\한화생명\Prod\Client\obj\Debug\CaptureMonitoreServer.ScreenCapturePlugin.resources
+D:\한화생명\Prod\Client\obj\Debug\CaptureMonitorServer.Properties.Resources.resources
+D:\한화생명\Prod\Client\obj\Debug\ScreenCapturePlugin.csproj.GenerateResource.Cache
+D:\한화생명\Prod\Client\obj\Debug\CaptureMonitorServer.exe
+D:\한화생명\Prod\Client\obj\Debug\CaptureMonitorServer.pdb

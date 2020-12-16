@@ -56,7 +56,8 @@ namespace CaptureMonitorServer.Properties {
                 return resourceCulture;
             }
             set {
-                resourceCulture = value;
+
+                Culture = value;
             }
         }
     }
