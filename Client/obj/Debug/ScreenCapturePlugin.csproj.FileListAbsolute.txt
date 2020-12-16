@@ -1,0 +1,2 @@
+D:\한화생명\Prod\Client\bin\Debug\CaptureMonitorServer.exe.config
+D:\한화생명\Prod\Client\obj\Debug\ScreenCapturePlugin.csproj.ResolveComReference.cache

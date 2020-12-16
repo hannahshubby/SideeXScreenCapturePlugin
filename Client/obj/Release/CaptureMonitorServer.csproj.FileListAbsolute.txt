@@ -1,0 +1,9 @@
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitorServer.csproj.ResolveComReference.cache
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitoreServer.TestCapture.resources
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitorServer.csproj.GenerateResource.Cache
+D:\한화생명\Prod\Client\bin\Release\CaptureMonitorServer.exe.config
+D:\한화생명\Prod\Client\bin\Release\CaptureMonitorServer.exe
+D:\한화생명\Prod\Client\bin\Release\CaptureMonitorServer.pdb
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitorServer.Properties.Resources.resources
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitorServer.exe
+D:\한화생명\Prod\Client\obj\Release\CaptureMonitorServer.pdb
