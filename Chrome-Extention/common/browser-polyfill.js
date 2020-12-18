@@ -585,7 +585,8 @@
       const makeCallback = promise => {
         return (...callbackArgs) => {
           if (chrome.runtime.lastError) {
-            promise.reject(chrome.runtime.lastError);
+			/* 2020.12.19 error block hye */
+            //promise.reject(chrome.runtime.lastError);
           } else if (callbackArgs.length === 1) {
             promise.resolve(callbackArgs[0]);
           } else {
